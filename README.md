@@ -1,4 +1,4 @@
 ## Speed Car
 Raspberry Pi project.
-![alt text](https://user-images.githubusercontent.com/21006294/93665192-3da06800-fa7d-11ea-85b7-6f83332d43bb.jpg)
+![alt text](https://user-images.githubusercontent.com/21006294/93665257-c1f2eb00-fa7d-11ea-9749-47234493bb6e.jpg)
 
